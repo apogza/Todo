@@ -1,0 +1,4 @@
+data/org.gnome.ToDo.desktop.in
+data/org.gnome.ToDo.metainfo.xml.in
+data/org.gnome.ToDo.gschema.xml
+src/window.ui
